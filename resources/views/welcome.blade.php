@@ -136,12 +136,7 @@
                     <li class="active"><a href="index.html"><i class="ti-home"></i><span>Dashboard</span></a></li>
                     <li><a href="ui-elements.html"><i class="ti-vector"></i><span>UI Elements</span></a></li>
                     <li class="g_heading">Application</li>
-                    <li><a href="app-calendar.html"><i class="ti-calendar"></i><span>Calendar</span></a></li>
-                    <li><a href="app-taskboard.html"><i class="ti-notepad"></i><span>TaskBoard</span></a></li>
-                    <li><a href="app-inbox.html"><i class="ti-email"></i><span>Inbox</span></a></li>
-                    <li><a href="app-chat.html"><i class="ti-comments"></i><span>Chat Apps</span></a></li>
                     <li><a href="app-contact.html"><i class="ti-id-badge"></i><span>Contact List</span></a></li>
-                    <li><a href="widgets.html"><i class="ti-widget"></i><span>Widgets</span></a></li>
 
                     <li class="g_heading">Chart, Froms & Elements</li>
                     <li>
@@ -948,7 +943,8 @@
                                     </div>
                                     <div class="icon-text">
                                         <h4 class="heading text-white">Latest Bootstrap framework
-                                            <small>(v4.3.1)</small></h4>
+                                            <small>(v4.3.1)</small>
+                                        </h4>
                                         <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                             sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                                     </div>

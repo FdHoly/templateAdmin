@@ -14,5 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('index');
+})->name("index");
+
+Route::get('/app-contact', function () {
+    return view('app-contact');
+})->name("app-contact");
+Route::get('/table-basic', function () {
+    return view('table-basic');
+})->name("table-basic");
