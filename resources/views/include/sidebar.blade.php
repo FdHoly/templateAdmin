@@ -18,6 +18,8 @@
             <li class="g_heading">Application</li>
             <li><a href="{{ route('app-contact') }}"><i class="ti-id-badge"></i><span>User List</span></a></li>
             <li><a href="{{ route('table-basic') }}"><i class="ti-view-list"></i><span>Posts</span></a></li>
+            <li><a href="{{ route('report-user') }}"><i class="ti-view-list"></i><span>Report</span></a></li>
+
 
             
             
