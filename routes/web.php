@@ -23,3 +23,6 @@ Route::get('/app-contact', function () {
 Route::get('/table-basic', function () {
     return view('table-basic');
 })->name("table-basic");
+Route::get('/report-user', function () {
+    return view('report-user');
+})->name("report-user");
