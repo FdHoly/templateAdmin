@@ -307,30 +307,29 @@
                                         <th>Username</th>
                                         <th>Total Post Report</th>
                                         <th>Email</th>
-                                        <th class="text-center">Favorite</th>
+                                        <th class="text-center">Jumlah Organisasi</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck1">
-                                                <label class="custom-control-label" for="customCheck1">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">1</span>
+
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar1.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">John Smith</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-2583</span>
+                                            <span class="phone">2583</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">johnsmith@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -338,23 +337,21 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck2">
-                                                <label class="custom-control-label" for="customCheck2">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">2</span>
+
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar3.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Hossein Shams</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-5689</span>
+                                            <span class="phone">5689</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">hosseinshams@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star text-warning"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -362,47 +359,21 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck3">
-                                                <label class="custom-control-label" for="customCheck3">&nbsp;</label>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <img src="../assets/images/xs/avatar4.jpg" class="avatar w30" alt="">
-                                            <span class="ml-2">Maryam Amiri</span>
-                                        </td>
-                                        <td>
-                                            <span class="phone">+1 264-625-9513</span>
-                                        </td>
-                                        <td>
-                                            <span class="email"><a href="javascript:void(0);"
-                                                    title="">maryamamiri@gmail.com</a></span>
-                                        </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
-                                        <td>
-                                            <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
-                                            <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck4">
-                                                <label class="custom-control-label" for="customCheck4">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">3</span>
+
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar6.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Tim Hank</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-1212</span>
+                                            <span class="phone">1212</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">timhank@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star text-warning"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -410,23 +381,20 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck5">
-                                                <label class="custom-control-label" for="customCheck5">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">4</span>
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar7.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Fidel Tonn</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-2323</span>
+                                            <span class="phone">2323</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">fideltonn@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -434,23 +402,20 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck6">
-                                                <label class="custom-control-label" for="customCheck6">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">5</span>
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar8.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Gary Camara</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-1005</span>
+                                            <span class="phone">1005</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">garycamara@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -458,23 +423,20 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck7">
-                                                <label class="custom-control-label" for="customCheck7">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">6</span>
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar9.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Frank Camly</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-9999</span>
+                                            <span class="phone">9999</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">frankcamly@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -482,23 +444,42 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck8">
-                                                <label class="custom-control-label" for="customCheck8">&nbsp;</label>
-                                            </div>
+                                            <span class="ml-2">7</span>
                                         </td>
                                         <td>
                                             <img src="../assets/images/xs/avatar10.jpg" class="avatar w30" alt="">
                                             <span class="ml-2">Tim Hank</span>
                                         </td>
                                         <td>
-                                            <span class="phone">+1 264-625-1212</span>
+                                            <span class="phone">1212</span>
                                         </td>
                                         <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">timhank@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"><i class="fa fa-star"></i></td>
+                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
+                                            <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
+                                            </>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span class="ml-2">8</span>
+
+                                        </td>
+                                        <td>
+                                            <img src="../assets/images/xs/avatar4.jpg" class="avatar w30" alt="">
+                                            <span class="ml-2">Maryam Amiri</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">9513</span>
+                                        </td>
+                                        <td>
+                                            <span class="email"><a href="javascript:void(0);"
+                                                    title="">maryamamiri@gmail.com</a></span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">23</span>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
