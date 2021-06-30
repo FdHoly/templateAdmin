@@ -14,15 +14,16 @@
         </div>
         <ul id="main-menu" class="metismenu">
             <li class="g_heading">Main</li>
-            <li class="active"><a href="{{ route('index') }}"><i class="ti-home"></i><span>Dashboard</span></a></li>
+            <li class="{{ Route::currentRouteName() == 'index' ? 'active' : '' }}"><a href="{{ route('index') }}"><i
+                        class="ti-home"></i><span>Dashboard</span></a></li>
             <li class="g_heading">Application</li>
-            <li><a href="{{ route('app-contact') }}"><i class="ti-id-badge"></i><span>User List</span></a></li>
-            <li><a href="{{ route('table-basic') }}"><i class="ti-view-list"></i><span>Posts</span></a></li>
-            <li><a href="{{ route('report-user') }}"><i class="ti-view-list"></i><span>Report</span></a></li>
+            <li class="{{ Route::currentRouteName() == 'app-contact' ? 'active' : '' }}"><a
+                    href="{{ route('app-contact') }}"><i class="ti-id-badge"></i><span>User List</span></a></li>
+            <li class="{{ Route::currentRouteName() == 'table-basic' ? 'active' : '' }}"><a
+                    href="{{ route('table-basic') }}"><i class="ti-view-list"></i><span>Posts</span></a></li>
 
 
-            
-            
+
 
         </ul>
     </nav>
