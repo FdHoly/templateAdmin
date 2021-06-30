@@ -550,7 +550,7 @@
                                                         <th>Tanggal Pembuatan</th>
                                                         <th>Jumlah Post</th>
                                                         <th>Jumlah User</th>
-                                                        <th>Status Post</th>
+                                                        {{-- <th>Status Post</th> --}}
                                                         <th>Action</th>
                                                         <th></th>
                                                     </tr>
@@ -558,7 +558,8 @@
                                                 <tbody>
                                                     <tr>
                                                         <td>Q01</td>
-                                                        <td>Iphone 7</td>
+                                                        <td><img src="../assets/images/xs/avatar1.jpg"
+                                                                class="avatar w30" alt=""> Iphone 7</td>
                                                         <td>12 Jan 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Credit card</td>
@@ -567,14 +568,15 @@
                                                         </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
-                                                                class="btn btn-success btn-sm">View Post</a>
+                                                                class="btn btn-success btn-sm">View Organisasi</a>
                                                             <button class="btn btn-danger btn-sm"><i
                                                                     class="fa fa-trash"></i></button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Q02</td>
-                                                        <td>Galaxy S8</td>
+                                                        <td><img src="../assets/images/xs/avatar1.jpg"
+                                                                class="avatar w30" alt=""> Galaxy S8</td>
                                                         <td>18 Jan 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Internet banking</td>
@@ -583,14 +585,15 @@
                                                         </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
-                                                                class="btn btn-success btn-sm">View Post</a>
+                                                                class="btn btn-success btn-sm">View Organisasi</a>
                                                             <button class="btn btn-danger btn-sm"><i
                                                                     class="fa fa-trash"></i></button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Q03</td>
-                                                        <td>Amazon Echo</td>
+                                                        <td><img src="../assets/images/xs/avatar1.jpg"
+                                                                class="avatar w30" alt=""> Amazon Echo</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Credit card</td>
@@ -599,14 +602,15 @@
                                                         </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
-                                                                class="btn btn-success btn-sm">View Post</a>
+                                                                class="btn btn-success btn-sm">View Organisasi</a>
                                                             <button class="btn btn-danger btn-sm"><i
                                                                     class="fa fa-trash"></i></button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Q04</td>
-                                                        <td>Google Pixel</td>
+                                                        <td><img src="../assets/images/xs/avatar1.jpg"
+                                                                class="avatar w30" alt=""> Google Pixel</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Cash on delivery</td>
@@ -615,14 +619,15 @@
                                                         </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
-                                                                class="btn btn-success btn-sm">View Post</a>
+                                                                class="btn btn-success btn-sm">View Organisasi</a>
                                                             <button class="btn btn-danger btn-sm"><i
                                                                     class="fa fa-trash"></i></button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Q05</td>
-                                                        <td>Mac Mini</td>
+                                                        <td><img src="../assets/images/xs/avatar1.jpg"
+                                                                class="avatar w30" alt=""> Mac Mini</td>
                                                         <td>8 March 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Debit card</td>
@@ -631,7 +636,7 @@
                                                         </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
-                                                                class="btn btn-success btn-sm">View Post</a>
+                                                                class="btn btn-success btn-sm">View Organisasi</a>
                                                             <button class="btn btn-danger btn-sm"><i
                                                                     class="fa fa-trash"></i></button>
                                                         </td>
