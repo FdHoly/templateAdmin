@@ -21,6 +21,10 @@
                     href="{{ route('app-contact') }}"><i class="ti-id-badge"></i><span>User List</span></a></li>
             <li class="{{ Route::currentRouteName() == 'table-basic' ? 'active' : '' }}"><a
                     href="{{ route('table-basic') }}"><i class="ti-view-list"></i><span>Posts</span></a></li>
+            <li class="{{ Route::currentRouteName() == 'table-group' ? 'active' : '' }}"><a
+                    href="{{ route('table-group') }}"><i class="ti-view-list"></i><span>Organisasi</span></a></li>
+            <li class="{{ Route::currentRouteName() == 'report-user' ? 'active' : '' }}"><a
+                    href="{{ route('report-user') }}"><i class="ti-view-list"></i><span>Report</span></a></li>
 
 
 

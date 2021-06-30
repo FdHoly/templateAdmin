@@ -27,6 +27,7 @@
 
     @include('include.upbar')
 
+
     <div class="main_content" id="main-content">
 
         @include('include.sidebar')
@@ -516,7 +517,7 @@
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="header">
-                                        <h2>Postingan</h2>
+                                        <h2>Daftar Organisasi</h2>
                                     </div>
                                     <div class="body">
                                         <div class="table-responsive">
@@ -544,11 +545,11 @@
                                             <table class="table va_center mb-0">
                                                 <thead>
                                                     <tr>
-                                                        <th>Post ID</th>
-                                                        <th>Judul Post</th>
+                                                        <th>ID Organisasi</th>
+                                                        <th>Nama Organisasi</th>
                                                         <th>Tanggal Pembuatan</th>
-                                                        <th>Pemilik Post</th>
-                                                        <th>Jumlah Report</th>
+                                                        <th>Jumlah Post</th>
+                                                        <th>Jumlah User</th>
                                                         <th>Status Post</th>
                                                         <th>Action</th>
                                                         <th></th>
