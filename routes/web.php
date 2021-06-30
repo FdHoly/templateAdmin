@@ -23,6 +23,9 @@ Route::get('/app-contact', function () {
 Route::get('/table-basic', function () {
     return view('table-basic');
 })->name("table-basic");
+Route::get('/table-group', function () {
+    return view('table-group');
+})->name("table-group");
 Route::get('/report-user', function () {
     return view('report-user');
 })->name("report-user");
