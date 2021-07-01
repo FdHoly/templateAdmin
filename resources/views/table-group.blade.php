@@ -547,6 +547,7 @@
                                                     <tr>
                                                         <th>ID Organisasi</th>
                                                         <th>Nama Organisasi</th>
+                                                        <th>Universitas</th>
                                                         <th>Tanggal Pembuatan</th>
                                                         <th>Jumlah Post</th>
                                                         <th>Jumlah User</th>
@@ -560,12 +561,11 @@
                                                         <td>Q01</td>
                                                         <td><img src="../assets/images/xs/avatar1.jpg"
                                                                 class="avatar w30" alt=""> Iphone 7</td>
+                                                        <td>Universitas Brawijaya</td>
                                                         <td>12 Jan 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Credit card</td>
-                                                        <td><label
-                                                                class="badge badge-primary text-uppercase">Public</label>
-                                                        </td>
+
                                                         <td>
                                                             <a href="javascript:void(0);"
                                                                 class="btn btn-success btn-sm">View Organisasi</a>
@@ -577,12 +577,11 @@
                                                         <td>Q02</td>
                                                         <td><img src="../assets/images/xs/avatar1.jpg"
                                                                 class="avatar w30" alt=""> Galaxy S8</td>
+                                                        <td>Universitas Brawijaya</td>
                                                         <td>18 Jan 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Internet banking</td>
-                                                        <td><label
-                                                                class="badge badge-primary text-uppercase">Private</label>
-                                                        </td>
+
                                                         <td>
                                                             <a href="javascript:void(0);"
                                                                 class="btn btn-success btn-sm">View Organisasi</a>
@@ -594,12 +593,11 @@
                                                         <td>Q03</td>
                                                         <td><img src="../assets/images/xs/avatar1.jpg"
                                                                 class="avatar w30" alt=""> Amazon Echo</td>
+                                                        <td>Universitas Brawijaya</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Credit card</td>
-                                                        <td><label
-                                                                class="badge badge-primary text-uppercase">Public</label>
-                                                        </td>
+
                                                         <td>
                                                             <a href="javascript:void(0);"
                                                                 class="btn btn-success btn-sm">View Organisasi</a>
@@ -611,12 +609,11 @@
                                                         <td>Q04</td>
                                                         <td><img src="../assets/images/xs/avatar1.jpg"
                                                                 class="avatar w30" alt=""> Google Pixel</td>
+                                                        <td>Universitas Brawijaya</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Cash on delivery</td>
-                                                        <td><label
-                                                                class="badge badge-primary text-uppercase">Private</label>
-                                                        </td>
+
                                                         <td>
                                                             <a href="javascript:void(0);"
                                                                 class="btn btn-success btn-sm">View Organisasi</a>
@@ -628,12 +625,10 @@
                                                         <td>Q05</td>
                                                         <td><img src="../assets/images/xs/avatar1.jpg"
                                                                 class="avatar w30" alt=""> Mac Mini</td>
+                                                        <td>Universitas Brawijaya</td>
                                                         <td>8 March 2018</td>
                                                         <td>Dispatched</td>
                                                         <td>Debit card</td>
-                                                        <td><label
-                                                                class="badge badge-primary text-uppercase">Public</label>
-                                                        </td>
                                                         <td>
                                                             <a href="javascript:void(0);"
                                                                 class="btn btn-success btn-sm">View Organisasi</a>
