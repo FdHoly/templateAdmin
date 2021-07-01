@@ -300,14 +300,38 @@
                 <div class="row clearfix">
                     <div class="col-lg-12 col-md-12">
                         <div class="table-responsive">
+                            <div class="d-flex justify-content-between">
+
+                                <div class="dataTables_length" id="DataTables_Table_0_length">
+                                    <label>Show <select name="DataTables_Table_0_length"
+                                            aria-controls="DataTables_Table_0" class="form-control form-control-sm">
+                                            <option value="10">10</option>
+                                            <option value="25">25</option>
+                                            <option value="50">50</option>
+                                            <option value="100">100</option>
+                                        </select> entries</label>
+
+                                </div>
+
+
+                                <div id="DataTables_Table_0_filter" class="dataTables_filter">
+                                    <label>Search:<input type="search" class="form-control form-control-sm"
+                                            placeholder="" aria-controls="DataTables_Table_0"></label>
+                                </div>
+
+                            </div>
                             <table class="table table-hover mb-0 c_table">
                                 <thead>
                                     <tr>
                                         <th class="w60">ID</th>
                                         <th>Username</th>
-                                        <th>Total Post Report</th>
                                         <th>Email</th>
+                                        <th>Status</th>
+                                        <th>Total Post</th>
+                                        <th>Total Post Report</th>
                                         <th class="text-center">Jumlah Organisasi</th>
+                                        <th>Report Page</th>
+
                                         <th>Action</th>
                                     </tr>
                                 </thead>
@@ -322,13 +346,21 @@
                                             <span class="ml-2">John Smith</span>
                                         </td>
                                         <td>
-                                            <span class="phone">2583</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">johnsmith@gmail.com</a></span>
                                         </td>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">2583</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">3</span>
                                         <td class="text-center"> <span class="phone">23</span>
+                                        </td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
                                         </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
@@ -345,13 +377,22 @@
                                             <span class="ml-2">Hossein Shams</span>
                                         </td>
                                         <td>
-                                            <span class="phone">5689</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">hosseinshams@gmail.com</a></span>
                                         </td>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">2583</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">2</span>
                                         <td class="text-center"> <span class="phone">23</span>
+                                        </td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -367,13 +408,21 @@
                                             <span class="ml-2">Tim Hank</span>
                                         </td>
                                         <td>
-                                            <span class="phone">1212</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">timhank@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">1212</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">9</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -388,13 +437,21 @@
                                             <span class="ml-2">Fidel Tonn</span>
                                         </td>
                                         <td>
-                                            <span class="phone">2323</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">fideltonn@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">2323</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">0</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -409,13 +466,21 @@
                                             <span class="ml-2">Gary Camara</span>
                                         </td>
                                         <td>
-                                            <span class="phone">1005</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">garycamara@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">1005</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">6</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -430,13 +495,21 @@
                                             <span class="ml-2">Frank Camly</span>
                                         </td>
                                         <td>
-                                            <span class="phone">9999</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">frankcamly@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">9999</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">4</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -451,13 +524,21 @@
                                             <span class="ml-2">Tim Hank</span>
                                         </td>
                                         <td>
-                                            <span class="phone">1212</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">timhank@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">1212</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">3</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>
@@ -473,13 +554,21 @@
                                             <span class="ml-2">Maryam Amiri</span>
                                         </td>
                                         <td>
-                                            <span class="phone">9513</span>
-                                        </td>
-                                        <td>
                                             <span class="email"><a href="javascript:void(0);"
                                                     title="">maryamamiri@gmail.com</a></span>
                                         </td>
-                                        <td class="text-center"> <span class="phone">23</span>
+                                        <td>
+                                            <span class="phone">User</span>
+                                        </td>
+                                        <td>
+                                            <span class="phone">9513</span>
+                                        </td>
+                                        <td class="text-center"> <span class="phone">1</span></td>
+                                        <td class="text-center"> <span class="phone">23</span></td>
+                                        <td>
+                                            <a href="javascript:void(0);" class="btn btn-success btn-sm">View
+                                                Report</a>
+                                        </td>
                                         <td>
                                             <button class="btn btn-primary btn-sm"><i class="fa fa-edit"></i></button>
                                             <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>

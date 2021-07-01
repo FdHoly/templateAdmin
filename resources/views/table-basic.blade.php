@@ -548,6 +548,7 @@
                                                         <th>Judul Post</th>
                                                         <th>Tanggal Pembuatan</th>
                                                         <th>Pemilik Post</th>
+                                                        <th>Organisasi</th>
                                                         <th>Jumlah Report</th>
                                                         <th>Status Post</th>
                                                         <th>Action</th>
@@ -560,7 +561,9 @@
                                                         <td>Iphone 7</td>
                                                         <td>12 Jan 2018</td>
                                                         <td>Dispatched</td>
-                                                        <td>Credit card</td>
+                                                        <td>KBMTI</td>
+                                                        <td>2 <a href="javascript:void(0);"
+                                                                class="btn btn-success btn-sm">View Report</a></td>
                                                         <td><label
                                                                 class="badge badge-primary text-uppercase">Public</label>
                                                         </td>
@@ -576,7 +579,9 @@
                                                         <td>Galaxy S8</td>
                                                         <td>18 Jan 2018</td>
                                                         <td>Dispatched</td>
-                                                        <td>Internet banking</td>
+                                                        <td>KBMTI</td>
+                                                        <td>0 <a href="javascript:void(0);"
+                                                                class="btn btn-success btn-sm">View Report</a></td>
                                                         <td><label
                                                                 class="badge badge-primary text-uppercase">Private</label>
                                                         </td>
@@ -592,7 +597,9 @@
                                                         <td>Amazon Echo</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
-                                                        <td>Credit card</td>
+                                                        <td>KBMTI</td>
+                                                        <td>1 <a href="javascript:void(0);"
+                                                                class="btn btn-success btn-sm">View Report</a></td>
                                                         <td><label
                                                                 class="badge badge-primary text-uppercase">Public</label>
                                                         </td>
@@ -608,7 +615,9 @@
                                                         <td>Google Pixel</td>
                                                         <td>22 Feb 2018</td>
                                                         <td>Dispatched</td>
-                                                        <td>Cash on delivery</td>
+                                                        <td>KBMTI</td>
+                                                        <td>0 <a href="javascript:void(0);"
+                                                                class="btn btn-success btn-sm">View Report</a></td>
                                                         <td><label
                                                                 class="badge badge-primary text-uppercase">Private</label>
                                                         </td>
@@ -624,7 +633,9 @@
                                                         <td>Mac Mini</td>
                                                         <td>8 March 2018</td>
                                                         <td>Dispatched</td>
-                                                        <td>Debit card</td>
+                                                        <td>KBMTI</td>
+                                                        <td>5 <a href="javascript:void(0);"
+                                                                class="btn btn-success btn-sm">View Report</a></td>
                                                         <td><label
                                                                 class="badge badge-primary text-uppercase">Public</label>
                                                         </td>
